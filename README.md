@@ -21,6 +21,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=querotti&icon=2&color=3)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by donating if you want to!
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Murilo Querotti) 
