@@ -1,4 +1,4 @@
-### 👨‍🎓 Hi! I'm [**Murilo**](https://my-portfolio-querotti.vercel.app/), a Computer Science student and an AI Engineer based in Brazil. I like building smooth, modern and useful interfaces, keeping it simple!
+### 👨‍🎓 Hi! I'm [**Murilo**](https://my-portfolio-pi-mocha-79.vercel.app/), a Computer Science student and an AI Engineer based in Brazil. I like building smooth, modern and useful interfaces, keeping it simple!
 
 ---
 
