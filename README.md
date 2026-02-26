@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 👨‍🎓 About Me:
 Hi, my name is Murilo Querotti, I’m a Computer Science student and an AI enthusiast 
 
 
-## 🌐 Socials:
+## 💬 Contact me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/querotti) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:murilovieceliqrtt@gmail.com) 
 
 # 💻 Tech Stack:
