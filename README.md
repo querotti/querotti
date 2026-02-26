@@ -1,6 +1,6 @@
-# 👨‍🎓 About Me: Hi, my name is Murilo Querotti, I’m a Computer Science student and an AI enthusiast 
+### 👨‍🎓 Hi! I'm [**Murilo**](https://ai.studio/apps/f59a97ca-6b7d-49b3-9955-47e33f4ea240), a Computer Science student and an AI Engineer based in Brazil. I like building smooth, modern and useful interfaces, keeping it simple!
 
-## 💬 Contact me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/querotti) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:murilovieceliqrtt@gmail.com)
+---
 
 # 💻 Tech Stack:
 
